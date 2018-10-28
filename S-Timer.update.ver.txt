@@ -1,0 +1,20 @@
+0.1 :	Creation of S-Timer
+
+0.2 : 	Adding negatif number convertor
+	Adding a real int in S-Timer
+
+0.3 :	Adding test seconde
+
+0.4.0 : Adding dynamic display
+
+0.4.1 : Optimization of dinamic display
+
+0.4.2 :	Code optimization
+
+0.5.0 :	Screen resize
+	Display "Temps restant" in french
+
+0.5.1 : Code optimization
+	Adding "s" at display if values is > 1
+
+0.5.2 : Code re-arrangement
